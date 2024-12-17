@@ -38,7 +38,8 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Budget Masamune
 - Rapier
 - Pencil
-*In files, but not implemented in the server -*
+
+## *In files, but not implemented in the server -*
 - Among Us Kill Button
 - Energy Sword
 - Dual Lightsaber
