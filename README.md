@@ -39,15 +39,6 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Rapier
 - Pencil
 
-## *In files, but not implemented in the server*
-- Among Us Kill Button
-- Energy Sword
-- Dual Lightsaber
-- Snow Shovel
-- Battleaxe
-- Fidget Spinner
-- Halo Energy Sword
-
 ## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
 - Rain-bow
