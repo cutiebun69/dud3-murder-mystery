@@ -13,7 +13,7 @@ As of right now, this pack contains:
 Just about all of the textures for skins and such were pulled from [Itembound: Rebound](https://www.planetminecraft.com/texture-pack/itembound-fixed/), go check it out if you ever get the chance.
 
 ## Knife Skins
-- Default (Just an Iron Sword, what did you expect?)
+- Default (Just an Iron Sword, what do you expect?)
 - Master Sword
 - 1000 Degree Knife
 - Brick
@@ -25,7 +25,7 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Scissors
 - Lightsaber
 - Dagger (underhand knife)
-- Doom Crucible
+- Crucible (from Doom Eternal)
 - Bloody Knife
 - Chainsaw
 - Stop Sign
@@ -34,19 +34,19 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Reaper Scythe
 - Iron Bat
 - Rainbow Sword
-- Bus Stop Sign
 - Giant Rock Candy
 - Budget Masamune
 - Rapier
 - Pencil
-- Suspicious Kill Button
+
+## *In files, but not implemented in the server*
+- Among Us Kill Button
+- Energy Sword
 - Dual Lightsaber
 - Snow Shovel
-- Battle Axe
-- Fidget Spinnner
+- Battleaxe
+- Fidget Spinner
 - Halo Energy Sword
-
-Some of the knife skins also have special kill sound effects.
 
 ## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
@@ -56,17 +56,17 @@ Some of the knife skins also have special kill sound effects.
 - Water Gun
 - Blaze Bow
 
-These pale in comparison to the knife skins because bows are a bit harder to get working with CustomModelData, and due to a general lack of bow textures.
+There are less of these in comparison to the knife skins because bows are a bit harder to get working with CustomModelData, and due to a general lack of bow textures.
 
 ## Kit/misc stuff
 - The Radar Scan, Heartbeat Sensor, Datapad and Phone all have their own graphics to distinguish them easier when players are holding them.
-- Murderer Ghost and the shotgun also have custom graphics.
+- Murderer Ghost also has a graphic for it.
 
 ## Death Sounds/Music
-- Bonk (plays when killing someone with the Bonk Hammer)
+- Bonk
 - Boo-womp
 - Mario Kart Double Dash
-- Friday Night Funkin' (currently just the pixel version)
+- Friday Night Funkin' (Pixel version)
 - HEHEHEHA
 - Madness Combat
 - Super Mario 64
@@ -81,13 +81,4 @@ These pale in comparison to the knife skins because bows are a bit harder to get
 - Waluigi
 - Wario
 
-## Music
-- Crazy Cap Shop
-- The Only Thing They Fear is You
-- Endless Stairs (Super Mario 64)
-- Mio Honda - Step!
-- Peach's Castle (Super Mario 64)
-- Sans (or is it?)
-- SMB3 Ghost House (SNES)
-
-There's other miscellaneous sounds I didn't list here, but you'll probably eventually hear them one way or another. Who knows.
+There's other miscellaneous sounds and music I didn't list here, they're used all over the server.
