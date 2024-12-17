@@ -25,7 +25,7 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Scissors
 - Lightsaber
 - Dagger (underhand knife)
-- Crucible (from Doom Eternal)
+- Doom Eternal Crucible
 - Bloody Knife
 - Chainsaw
 - Stop Sign
