@@ -22,43 +22,50 @@ Just about all of the textures for skins and such were pulled from [Itembound: R
 - Microphone
 - Crying Obsidian Sword
 - Magma Sword
-- Scissors (Red)
-- Lightsaber (Red)
+- Scissors
+- Lightsaber
 - Dagger (underhand knife)
-- Crucible (Doom Eternal)
+- Crucible (from Doom Eternal)
 - Bloody Knife
-- Chainsaw (Netherite)
+- Chainsaw
 - Stop Sign
 - Spoon
 - Bonk Hammer
 - Reaper Scythe
 - Iron Bat
 - Rainbow Sword
-- Bus Stop Sign
 - Giant Rock Candy
 - Budget Masamune
-- Rapier (Diamond)
-- Pencil (Yellow)
+- Rapier
+- Pencil
+*In files, but not implemented in the server -*
+- Among Us Kill Button
+- Energy Sword
+- Dual Lightsaber
+- Snow Shovel
+- Battleaxe
+- Fidget Spinner
+- Halo Energy Sword
 
 ## Gun Skins
 - Default (The standard Bow. Again, what are you expecting here?)
 - Rain-bow
 - Candy Cannon
 - Compound Bow
-- Water Gun (Green)
+- Water Gun
 - Blaze Bow
 
-These pale in comparison to the knife skins because bows are a bit harder to get working with CustomModelData, and due to a general lack of bow textures.
+There are less of these in comparison to the knife skins because bows are a bit harder to get working with CustomModelData, and due to a general lack of bow textures.
 
 ## Kit/misc stuff
 - The Radar Scan, Heartbeat Sensor, Datapad and Phone all have their own graphics to distinguish them easier when players are holding them.
 - Murderer Ghost also has a graphic for it.
 
 ## Death Sounds/Music
-- Bonk (plays when killing someone with the Bonk Hammer)
+- Bonk
 - Boo-womp
 - Mario Kart Double Dash
-- Friday Night Funkin' (currently just the pixel version)
+- Friday Night Funkin' (Pixel version)
 - HEHEHEHA
 - Madness Combat
 - Super Mario 64
@@ -73,17 +80,4 @@ These pale in comparison to the knife skins because bows are a bit harder to get
 - Waluigi
 - Wario
 
-## Music
-- Bowser's Theme (Super Mario 64)
-- Crazy Cap Shop
-- The Only Thing They Fear is You
-- Endless Stairs (Super Mario 64)
-- Mio Honda - Step!
-- Peach's Castle (Super Mario 64)
-- Sans (or is it?)
-- Sherbet Land (MKDD/MK8 Dual Mix)
-- SMB3 Ghost House (SNES)
-- Spamton
-- Wario's Gold Mine (MK8, Frontrunning)
-
-There's other miscellaneous sounds I didn't list here, but you'll probably eventually hear them one way or another. Who knows.
+There's other miscellaneous sounds and music I didn't list here, they're used all over the server.
