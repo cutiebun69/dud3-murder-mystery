@@ -3,7 +3,7 @@
 		"sounds": [
 			{
 				"name": "misc/bowser-message",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -12,7 +12,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-64-painting",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -21,7 +21,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-64-warp",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -30,25 +30,16 @@
 		"sounds": [
 			{
 				"name": "misc/odyssey-moon-get",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
-	
-	"mario-luigi-attack-piece": {
-		"sounds": [
-			{
-				"name": "misc/mario-luigi-attack-piece",
-				"stream": true
-			}
-		]
-	},
-	
+
 	"mario-luigi-area-select": {
 		"sounds": [
 			{
 				"name": "misc/mario-luigi-area-select",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -57,7 +48,7 @@
 		"sounds": [
 			{
 				"name": "misc/mario-luigi-select",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -66,7 +57,7 @@
 		"sounds": [
 			{
 				"name": "misc/deltarune-explosion",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -84,16 +75,7 @@
 		"sounds": [
 			{
 				"name": "death/bonk",
-				"stream": true
-			}
-		]
-	},
-	
-	"boowomp": {
-		"sounds": [
-			{
-				"name": "death/boowomp",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -102,34 +84,7 @@
 		"sounds": [
 			{
 				"name": "death/double-dash",
-				"stream": true
-			}
-		]
-	},
-	
-	"fnf-loss": {
-		"sounds": [
-			{
-				"name": "death/fnf-loss",
-				"stream": true
-			}
-		]
-	},
-	
-	"heheheha": {
-		"sounds": [
-			{
-				"name": "death/heheheha",
-				"stream": true
-			}
-		]
-	},
-	
-	"madness-combat": {
-		"sounds": [
-			{
-				"name": "death/madness-combat",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -138,7 +93,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-64",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -147,7 +102,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-galaxy",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -156,7 +111,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-sunshine",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -165,7 +120,7 @@
 		"sounds": [
 			{
 				"name": "death/mario-world",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -174,16 +129,7 @@
 		"sounds": [
 			{
 				"name": "death/solid-snake",
-				"stream": true
-			}
-		]
-	},
-	
-	"steel-sting": {
-		"sounds": [
-			{
-				"name": "death/steel-sting",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -192,52 +138,7 @@
 		"sounds": [
 			{
 				"name": "death/sus",
-				"stream": true
-			}
-		]
-	},
-	
-	"among-us-alternate": {
-		"sounds": [
-			{
-				"name": "death/sus-alternate",
-				"stream": true
-			}
-		]
-	},
-	
-	"undertale-deltarune-death": {
-		"sounds": [
-			{
-				"name": "death/undertale-deltarune",
-				"stream": true
-			}
-		]
-	},
-	
-	"vine-boom": {
-		"sounds": [
-			{
-				"name": "death/vine-boom",
-				"stream": true
-			}
-		]
-	},
-	
-	"waluigi": {
-		"sounds": [
-			{
-				"name": "death/waluigi",
-				"stream": true
-			}
-		]
-	},
-	
-	"wario": {
-		"sounds": [
-			{
-				"name": "death/wario",
-				"stream": true
+				"stream": false
 			}
 		]
 	},
@@ -246,15 +147,6 @@
 		"sounds": [
 			{
 				"name": "music/crazy-cap",
-				"stream": true
-			}
-		]
-	},
-	
-	"doom": {
-		"sounds": [
-			{
-				"name": "music/doom",
 				"stream": true
 			}
 		]
@@ -286,7 +178,7 @@
 			}
 		]
 	},
-	
+
 	"sans": {
 		"sounds": [
 			{
@@ -295,32 +187,7 @@
 			}
 		]
 	},
-	
-		"smb3-ghost-house": {
-		"sounds": [
-			{
-				"name": "music/smb3-ghost-house",
-				"stream": true
-			}
-		]
-	},
 
-	"halo-betrayal": {
-		"sounds": [
-			{
-				"name": "misc/betrayal",
-				"stream": true
-			}
-		]
-	},
-	"halo-betrayed": {
-		"sounds": [
-			{
-				"name": "misc/betrayed",
-				"stream": true
-			}
-		]
-	},
 	"sombra-brb": {
 		"sounds": [
 			{
@@ -329,6 +196,7 @@
 			}
 		]
 	},
+
 	"sombra-might-need-later": {
 		"sounds": [
 			{
@@ -337,6 +205,7 @@
 			}
 		]
 	},
+
 	"sombra-out-of-here": {
 		"sounds": [
 			{
@@ -345,6 +214,7 @@
 			}
 		]
 	},
+
 	"sombra-see-you-later": {
 		"sounds": [
 			{
