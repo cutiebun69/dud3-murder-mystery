@@ -4,7 +4,7 @@ This resource pack contains additional things that are used in Dud3's murder mys
 As of right now, this pack contains:
 - Knife skins
 - Gun skins
-- Selectable death sounds
+- Selectable death sounds (not fully implemented yet)
 - Various other sound effects
 - Other graphics and icons used by kit items mainly
 
