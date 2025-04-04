@@ -2,7 +2,7 @@
 	"bowser-message": {
 		"sounds": [
 			{
-				"name": "misc/bowser-message",
+				"name": "mm:misc/bowser-message",
 				"stream": false
 			}
 		]
@@ -11,7 +11,7 @@
 	"mario-64-painting": {
 		"sounds": [
 			{
-				"name": "misc/mario-64-painting",
+				"name": "mm:misc/mario-64-painting",
 				"stream": false
 			}
 		]
@@ -20,7 +20,7 @@
 	"mario-64-warp": {
 		"sounds": [
 			{
-				"name": "misc/mario-64-warp",
+				"name": "mm:misc/mario-64-warp",
 				"stream": false
 			}
 		]
@@ -29,7 +29,7 @@
 	"odyssey-moon-get": {
 		"sounds": [
 			{
-				"name": "misc/odyssey-moon-get",
+				"name": "mm:misc/odyssey-moon-get",
 				"stream": false
 			}
 		]
@@ -38,7 +38,7 @@
 	"mario-luigi-area-select": {
 		"sounds": [
 			{
-				"name": "misc/mario-luigi-area-select",
+				"name": "mm:misc/mario-luigi-area-select",
 				"stream": false
 			}
 		]
@@ -47,7 +47,7 @@
 	"mario-luigi-select": {
 		"sounds": [
 			{
-				"name": "misc/mario-luigi-select",
+				"name": "mm:misc/mario-luigi-select",
 				"stream": false
 			}
 		]
@@ -56,7 +56,7 @@
 	"deltarune-explosion": {
 		"sounds": [
 			{
-				"name": "misc/deltarune-explosion",
+				"name": "mm:misc/deltarune-explosion",
 				"stream": false
 			}
 		]
@@ -65,7 +65,7 @@
 	"lion-scan": {
 		"sounds": [
 			{
-				"name": "misc/lion-scan",
+				"name": "mm:misc/lion-scan",
 				"stream": true
 			}
 		]
@@ -74,7 +74,7 @@
 	"bonk": {
 		"sounds": [
 			{
-				"name": "death/bonk",
+				"name": "mm:death/bonk",
 				"stream": false
 			}
 		]
@@ -83,7 +83,7 @@
 	"double-dash-lose": {
 		"sounds": [
 			{
-				"name": "death/double-dash",
+				"name": "mm:death/double-dash",
 				"stream": false
 			}
 		]
@@ -92,7 +92,7 @@
 	"mario-64-death": {
 		"sounds": [
 			{
-				"name": "death/mario-64",
+				"name": "mm:death/mario-64",
 				"stream": false
 			}
 		]
@@ -101,7 +101,7 @@
 	"mario-galaxy-death": {
 		"sounds": [
 			{
-				"name": "death/mario-galaxy",
+				"name": "mm:death/mario-galaxy",
 				"stream": false
 			}
 		]
@@ -110,7 +110,7 @@
 	"mario-sunshine-death": {
 		"sounds": [
 			{
-				"name": "death/mario-sunshine",
+				"name": "mm:death/mario-sunshine",
 				"stream": false
 			}
 		]
@@ -119,7 +119,7 @@
 	"mario-world-death": {
 		"sounds": [
 			{
-				"name": "death/mario-world",
+				"name": "mm:death/mario-world",
 				"stream": false
 			}
 		]
@@ -128,7 +128,7 @@
 	"snake-death": {
 		"sounds": [
 			{
-				"name": "death/solid-snake",
+				"name": "mm:death/solid-snake",
 				"stream": false
 			}
 		]
@@ -146,7 +146,7 @@
 	"crazy-cap": {
 		"sounds": [
 			{
-				"name": "music/crazy-cap",
+				"name": "mm:music/crazy-cap",
 				"stream": true
 			}
 		]
@@ -155,7 +155,7 @@
 	"mario-64-endless-stairs": {
 		"sounds": [
 			{
-				"name": "music/endless-stairs",
+				"name": "mm:music/endless-stairs",
 				"stream": true
 			}
 		]
@@ -164,7 +164,7 @@
 	"mio-honda-step": {
 		"sounds": [
 			{
-				"name": "music/mio-honda-step",
+				"name": "mm:music/mio-honda-step",
 				"stream": true
 			}
 		]
@@ -173,7 +173,7 @@
 	"mario-64-peach-castle": {
 		"sounds": [
 			{
-				"name": "music/peach-castle",
+				"name": "mm:music/peach-castle",
 				"stream": true
 			}
 		]
@@ -182,43 +182,7 @@
 	"sans": {
 		"sounds": [
 			{
-				"name": "music/sans",
-				"stream": true
-			}
-		]
-	},
-
-	"sombra-brb": {
-		"sounds": [
-			{
-				"name": "misc/sombra-brb",
-				"stream": true
-			}
-		]
-	},
-
-	"sombra-might-need-later": {
-		"sounds": [
-			{
-				"name": "misc/sombra-might-need-later",
-				"stream": true
-			}
-		]
-	},
-
-	"sombra-out-of-here": {
-		"sounds": [
-			{
-				"name": "misc/sombra-out-of-here",
-				"stream": true
-			}
-		]
-	},
-
-	"sombra-see-you-later": {
-		"sounds": [
-			{
-				"name": "misc/sombra-see-you-later",
+				"name": "mm:music/sans",
 				"stream": true
 			}
 		]
@@ -227,7 +191,7 @@
 	"emergency-button": {
 		"sounds": [
 			{
-				"name": "misc/emergency-button",
+				"name": "mm:misc/emergency-button",
 				"stream": false
 				}
 			]
