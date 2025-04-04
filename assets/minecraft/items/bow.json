@@ -1,0 +1,73 @@
+    {
+        "model": {
+            "type": "select",
+            "property": "custom_model_data",
+            "fallback": {
+                "type": "range_dispatch",
+                "property": "use_duration",
+                "entries": [
+                    {
+                        "threshold": 1,
+                        "model": {
+                            "type": "model",
+                            "model": "item/bow_pulling_0"
+                        }
+                    },
+                    {
+                        "threshold": 13,
+                        "model": {
+                            "type": "model",
+                            "model": "item/bow_pulling_1"
+                        }
+                    },
+                    {
+                        "threshold": 18,
+                        "model": {
+                            "type": "model",
+                            "model": "item/bow_pulling_2"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "model",
+                    "model": "item/bow"
+                }
+            },
+            "cases": [
+                {
+                    "when": "watergun",
+                    "model": {
+                        "type": "range_dispatch",
+                        "property": "use_duration",
+                        "entries": [
+                            {
+                                "threshold": 1,
+                                "model": {
+                                    "type": "model",
+                                    "model": "item/watergun_pulling_0"
+                                }
+                            },
+                            {
+                                "threshold": 13,
+                                "model": {
+                                    "type": "model",
+                                    "model": "item/watergun_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 18,
+                                "model": {
+                                    "type": "model",
+                                    "model": "item/watergun_pulling_2"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "model",
+                            "model": "item/watergun"
+                        }
+                    }
+                }
+            ]
+        }
+    }

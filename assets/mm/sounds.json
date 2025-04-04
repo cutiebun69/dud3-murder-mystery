@@ -137,7 +137,7 @@
 	"among-us": {
 		"sounds": [
 			{
-				"name": "death/sus",
+				"name": "mm:death/sus",
 				"stream": false
 			}
 		]
